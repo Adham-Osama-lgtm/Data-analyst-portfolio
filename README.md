@@ -1,10 +1,13 @@
 # Adham Osama | Data Analyst Portfolio
 
 ## 🧠 About Me
-I'm Adham Osama, a Computer Science student passionate about Data Analysis.  
-Currently building skills in Excel, Power Query, and data visualization.  
-This portfolio showcases some of the dashboards I’ve built during my learning journey.
 
+Motivated Computer Science student with strong foundations in data analysis, problem-solving, and 
+algorithm design. Experienced in building interactive dashboards using Excel and Power BI, with 
+proven ability to clean, transform, and visualize large datasets to deliver actionable insights. Skilled 
+in SQL, DAX, and advanced Excel functions, with hands-on project experience in sales performance 
+monitoring and global data visualization. Adept at teamwork, effective communication, and 
+continuous learning to strengthen technical expertise.
 ---
 
 ## 📂 Projects
